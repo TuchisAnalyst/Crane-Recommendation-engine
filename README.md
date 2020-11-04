@@ -1,5 +1,6 @@
 
 Project Overview
+
 This project's main aim was to identify bundling opportunities that result in an increase of market share while maintaining the target margin for the company, by developing a tool that identifies opportunities to sell a broader range of products to the contractors, while identifying the optimum price point and associated discount structure for these products.
 
 # [Part 1: Preparing and cleaning of the data](https://tuchisanalyst.github.io/Crane-Recommendation-engine/)
