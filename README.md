@@ -8,3 +8,15 @@ This project's main aim was to identify bundling opportunities that result in an
 * Step 2: Discovering ans assesment - This step was about getting to know the data and understanding what had to be done before any analyses were done.
 * Step 3: Cleaning the data - Removing extraneous data and outliers, filling in/eliminating missing values and conforming the choosing the most relevant variables within datasets.
 
+
+# [Part 2: Development of the recommendation engine](https://tuchisanalyst.github.io/Crane-Recommendation-engine/)
+* Step 1: Data Preparation - Began with finding the right data from different sources provided by the company.
+* Step 2: Discovering ans assesment - This step was about getting to know the data and understanding what had to be done before any analyses were done.
+* Step 3: Cleaning the data - Removing extraneous data and outliers, filling in/eliminating missing values and conforming the choosing the most relevant variables within datasets.
+* Click here for the Code involved in this part of the project (https://tuchisanalyst.github.io/Crane-Recommendation-engine/)
+
+# [Part 3: Recommendation engine integration with Qlikview](https://tuchisanalyst.github.io/Crane-Recommendation-engine/)
+* Step 1: Data Preparation - Began with finding the right data from different sources provided by the company.
+* Step 2: Discovering ans assesment - This step was about getting to know the data and understanding what had to be done before any analyses were done.
+* Step 3: Cleaning the data - Removing extraneous data and outliers, filling in/eliminating missing values and conforming the choosing the most relevant variables within datasets.
+* Click here for the Code involved in this part of the project (https://tuchisanalyst.github.io/Crane-Recommendation-engine/)
